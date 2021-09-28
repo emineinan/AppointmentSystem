@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ZoneZeroCase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="klinik_ara">Klinik ara...</string>
+    <string name="kadin">Kadın</string>
+    <string name="erkek">Erkek</string>
+    <string name="kullanici_bulunamadi">Kullanıcı bulunamadı.</string>
+    <string name="odeme_ekrani">Ödeme Ekranı</string>
+    <string name="randevu_ekrani">Randevu Ekranı</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="randevu_al">Randevu Al</string>
+    <string name="premium_paket_al">Premium Paket Al</string>
+</resources>
